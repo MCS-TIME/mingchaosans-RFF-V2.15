@@ -103,7 +103,7 @@
 0,GasterBlaster,0,640,0,$HeartXX,$HeartYY,135,0.4,0.2
 0,GasterBlaster,0,0,480,$HeartXXX,$HeartYYY,-45,0.4,0.2
 0,GasterBlaster,0,640,480,$HeartXXXX,$HeartYYYY,-135,0.4,0.2
-0.4,JMPL,14,$gt,190,,,,,
+0.1,JMPL,14,$gt,190,,,,,
 1,DamagePlayer,-15,1,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
