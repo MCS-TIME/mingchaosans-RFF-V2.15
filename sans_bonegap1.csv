@@ -1,6 +1,6 @@
 0,CombatZoneResize,241,226,406,391,TLPause,,
 0,HeartTeleport,320,304,,,,,
-0,HeartMaxFallSpeed,700,,,,,,
+0,HeartMaxFallSpeed,1200,,,,,,
 0,TLResume,,,,,,,
 0.2,SansHead,Closedeyes,,,,,,
 0,SansTorso,shrug,,,,,,
