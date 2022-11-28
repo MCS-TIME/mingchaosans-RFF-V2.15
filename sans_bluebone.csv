@@ -17,8 +17,8 @@
 0,heartmode,1,,,,,,
 0,sound,ding,1,,,,,
 0.2,heartteleport,71,376,,,,,
-0,bonevrepeat,81,410,30,3,120,100,55
-0,bonehrepeat,51,356,30,0,120,500,55
+0,bonevrepeat,81,410,30,3,120,100,40
+0,bonehrepeat,51,356,30,0,120,500,40
 0,platform,56,346,20,,,,
 0,bonev,61,231,85,,,,
 0,bonev,73,231,85,,,,
@@ -118,6 +118,6 @@
 0,bonev,-48,231,155,0,20,,
 0,bonev,-60,231,155,0,20,,
 0,bonev,-72,231,155,0,20,,
-27.5,DamagePlayer,-92,1,,,,,
+27.5,DamagePlayer,-102,1,,,,,
 0,Sound,heartsplit,1,,,,,
 0,EndAttack,,,,,,,
