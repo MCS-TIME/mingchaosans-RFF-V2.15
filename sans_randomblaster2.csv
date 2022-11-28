@@ -51,7 +51,7 @@
 0,ANGLE,Ang2,$EndX2,$EndY2,$HeartX2,$HeartY2,,,
 0,GasterBlaster,2,$X,$Y,$EndX,$EndY,$Ang,0.66666,0.03333
 0,GasterBlaster,2,$X2,$Y2,$EndX2,$EndY2,$Ang2,0.66666,0.03333
-0.66666,JMPNZ,9,$Loop,,,,,,
+0.55555,JMPNZ,9,$Loop,,,,,,
 1,DamagePlayer,-20,1,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
