@@ -55,7 +55,7 @@
 0,SET,EndY,440,,,,,,
 0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,
 0,GasterBlaster,1,$X,$Y,$EndX,$EndY,$Ang,0.86666,0.03333
-0.233333,JMPNZ,13,$LLLL,,,,,,
+0.16666,JMPNZ,13,$LLLL,,,,,,
 0,DamagePlayer,-25,1,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
