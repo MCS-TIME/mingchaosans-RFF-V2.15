@@ -25,7 +25,7 @@
 0,SansBody,HandRight,,,,,,,
 0,Sound,Ding,,,,,,,
 0.4,Sound,GasterBlaster,1.4,,,,,,
-0.4,SineBones,150,4,500,,
+0.4,SineBones,50,50,500,50,
 1.1,SansAnimation,,,,,,,,
 0,GasterBlaster,,0,0,189,246,0,0.333,0.4
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.4
