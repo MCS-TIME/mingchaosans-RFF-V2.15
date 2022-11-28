@@ -77,10 +77,10 @@
 0,sansslam,1,,,,,,,
 0,CombatZoneResize,241,266,406,351,,,,
 0,CombatZoneSpeed,100,,,,,,,
-2,gasterblaster,0,0,0,251,166,90,0.4,5
+2,gasterblaster,0,0,0,251,166,45,0.4,5
 0,gasterblaster,0,20,0,267,166,90,0.4,5
-0,gasterblaster,0,640,0,396,166,90,0.4,5
-0,gasterblaster,0,620,0,380,166,90,0.4,5
+0,gasterblaster,0,640,0,396,166,135,0.4,5
+0,gasterblaster,0,620,0,380,166,180,0.4,5
 4,sansslam,3,,,,,,,
 0.2,BoneStab,3,15,0.1,0,,,,
 0,BoneStab,1,42,0.1,0,,,,
