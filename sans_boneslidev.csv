@@ -13,6 +13,6 @@
 0,BoneHRepeat,325,466,80,3,150,15,50
 0,BoneVRepeat,521,226,80,2,150,15,50
 0,BoneVRepeat,111,311,80,0,150,15,50
-12,DamagePlayer,-45,1,,,,,
+12,DamagePlayer,-105,1,,,,,
 0,sound,heartsplit,1,,,,,
 0,EndAttack,,,,,,,
