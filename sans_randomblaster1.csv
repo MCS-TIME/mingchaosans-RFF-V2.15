@@ -79,7 +79,7 @@
 0,GasterBlaster,0,640,0,$HeartXXX,$HeartYYY,135,0.66666,0.03333
 0,GasterBlaster,0,0,480,$HeartXXXX,$HeartYYYY,-45,0.66666,0.03333
 0,GasterBlaster,0,640,480,$HeartXXXXX,$HeartYYYYY,-135,0.66666,0.03333
-0.68888,JMPNZ,9,$Loop,,,,,,
-1,DamagePlayer,-20,1,,,,,,
+0.38888,JMPNZ,9,$Loop,,,,,,
+1,DamagePlayer,-44,1,,,,,,
 0,sound,heartsplit,1,,,,,,
 0,EndAttack,,,,,,,,
