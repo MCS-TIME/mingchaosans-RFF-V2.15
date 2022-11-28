@@ -1,6 +1,6 @@
 0,CombatZoneResize,241,226,406,391,TLPause,,,
 0,CombatZoneSpeed,300,,,,,,,
-0,HeartMaxFallSpeed,700,,,,,,,
+0,HeartMaxFallSpeed,900,,,,,,,
 0,heartmode,0,,,,,,,
 0,HeartTeleport,320,304,,,,,,
 0,SansAnimation,Idle,,,,,,,
